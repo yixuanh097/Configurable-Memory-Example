@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      hyx42
+HostName                       scc-wl4.scc.bu.edu
+ProcessIdentifier              998659
+ProcessCreationTime_UTC        1774197711
+ProcessCreationTime_Readable   Sun Mar 22 12:41:51 2026 EDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /projectnb/ec571ry/students/hyx42/EC571/FreePDK45/project/BCAM_10T/schematic/sch.oa.cdslck
+TimeEditLocked                 Sun Mar 22 12:42:17 2026 EDT
